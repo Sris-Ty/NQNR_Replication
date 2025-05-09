@@ -1,0 +1,2 @@
+Module,AUC,MRR,nDCG@5,nDCG@10
+NQNR_without_DM,49.64,24.33,22.15,28.31
